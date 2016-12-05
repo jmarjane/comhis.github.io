@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "#BSECS17 – SESSION ON DATA MINING ECCO & ESTC"
-date:   2016-28-11 16:46:39 +0200
+date:   2016-12-05 16:46:39 +0200
 categories: ESTC ECCO data-mining sessions
 ---
 COMHIS Collective will organise a demo-session on “Analysing eighteenth-century key-terms and phrases using ECCO and ESTC” at the British Society for Eighteenth-Century Studies [annual conference][BSECS17] at Oxford (4-6 January 2017).
