@@ -1,4 +1,5 @@
-- name: "Mikko Tolonen"
+Mikko Tolonen: 
+  name: "Mikko Tolonen"
   uri: "https://tuhat.halvi.helsinki.fi/portal/fi/person/mstolone"
   bio: "Researcher of the history of philosophy and ideas who has spent a large slice of his life considering why
         individual evils also lead to the common good. In his post-doc years Tolonen awakened to the potential
@@ -8,7 +9,8 @@
   avatar: "/assets/images/avatars/mikko_tolonen150x150.jpg"
   github: tolonen
 
-- name: Eetu Mäkelä
+Eetu Mäkelä:
+  name: Eetu Mäkelä
   uri: "http://seco.cs.aalto.fi/u/jiemakel/"
   bio: "Researcher, D.Sc. Aalto University, University of Helsinki, University of Oxford<br>
         Current area of scientific interest: supporting humanities research based on rich unstructured and structured data."
@@ -17,7 +19,8 @@
   avatar: "/assets/images/avatars/eetu_makela150x150.jpg"
   github: jiemakel
 
-- name: "Leo Lahti"
+Leo Lahti:
+  name: "Leo Lahti"
   uri: "http://antagomir.github.io/"
   bio: "&bull; Academy of Finland Research Fellow 2016-2021<br>
         &bull; University of Turku, Finland. Docent/Adjunct Professor. Applied Mathematics<br>
@@ -28,7 +31,8 @@
   avatar: "/assets/images/avatars/leo_lahti150x150.jpg"
   github: antagomir
 
-- name: Ville Vaara
+Ville Vaara:
+  name: Ville Vaara
   bio: "Phd candidate in History and Digital Humanities at the University of Helsinki. Special interest in history of ideologies."
   email: villepvaara@gmail.com
   avatar: "/assets/images/avatars/ville_vaara150x150.jpg"
