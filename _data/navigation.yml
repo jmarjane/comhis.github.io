@@ -1,10 +1,12 @@
 # main links
 main:
   # - title: "About"
-  #   url: /
-  # - title: "People"
-  #   url: /people/
+  #   url: /about/
+  - title: "People"
+    url: /people/
   - title: "Stories"
     url: /stories/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  # - title: "Publications"
+  #   url: /publications/
+  # - title: "Projects"
+  #   url: /projects/
